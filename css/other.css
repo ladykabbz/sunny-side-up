@@ -375,7 +375,7 @@ nav {
   align-items: flex-start;
 }
 .hero-wrapper {
-  width: 55%;
+  width: 100%;
 }
 .hero-wrapper h1 {
   color: rgb(250, 250, 250);
@@ -801,4 +801,34 @@ footer {
   text-align: center;
   display: block;
   margin: 0 auto;
+}
+.contactimg {
+  border-radius: 50%;
+  padding: 30px;
+}
+.info {
+  display: flex;
+  justify-content: flex-end;
+}
+form {
+  padding: 30px;
+}
+.contactheader,
+h5 {
+  text-align: center;
+  text-decoration: underline;
+}
+.submitbt {
+  padding: 8px;
+  background-color: orange;
+}
+.socialmedia {
+  display: flex;
+  justify-content: center;
+}
+.contact-3 {
+  font-size: 20px;
+}
+.name-link {
+  color: rgb(233, 233, 233);
 }
