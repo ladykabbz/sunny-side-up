@@ -171,7 +171,7 @@ li {
   border: 2px solid #1b1b1b;
 }
 .blackBtn:hover {
-  background-color: #3a3a3a;
+  background-color: orange;
   border: 2px solid #3a3a3a;
 }
 
@@ -184,7 +184,7 @@ li {
 }
 .blackOutlineBtn:hover {
   color: white;
-  background-color: #1b1b1b;
+  background-color: orange;
 }
 
 .whiteBtn {
