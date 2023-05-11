@@ -320,15 +320,14 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 9999; /* Set a higher value here */
     width: 100%;
     overflow: hidden;
     background-color: #fdfbf9;
-    width: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
   }
+
+  /* Rest of the code... */
+
   .topnav a {
     color: rgb(0, 0, 0);
     padding: 14px 16px;
