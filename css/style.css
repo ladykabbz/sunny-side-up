@@ -805,3 +805,7 @@ footer {
   display: block;
   margin: 0 auto;
 }
+.imagebooks {
+  height: 20;
+  width: 20;
+}
