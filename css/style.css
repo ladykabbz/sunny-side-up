@@ -320,10 +320,14 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 9999; /* Set a higher value here */
+    z-index: 1;
     width: 100%;
     overflow: hidden;
     background-color: #fdfbf9;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
   }
 
   /* Rest of the code... */
